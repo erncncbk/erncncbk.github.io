@@ -1,31 +1,26 @@
 [
 	{
-		"data": [
-			{
-				"Id": "1",
-				"name": "HAFTANIN ÖDÜLÜ",
-				"description": "Akıllı Saat",
-				"url": "https://i.ibb.co/mvjs50n/d-l.png"
-			},
-			{
-				"Id": "2",
-				"name": "KAZANANLAR",
-				"description": "Haftalık Highest Score Sıralamasına Göre",
-				"url": "https://i.ibb.co/2PxG5B6/kazananlar.png"
-			},
-			{
-				"Id": "3",
-				"name": "DUYURU",
-				"description": "Haftalık Highest Score Sıralamasına Göre",
-				"url": "https://i.ibb.co/2PxG5B6/kazananlar.png"
-			},
-			{
-				"Id": "4",
-				"name": "ÖNEMLİ",
-				"description": "Haftanın ödülünü kazanan arkadaş bilgilerini teyit ettirmek için 1 hafta içerinde bilgilerini teyit ettirmek zorundadır. Aksi halde mail atmak zorundadır,aksi halde ödül haftaya sıralamaya giren ilk 2 ye verilecektir.",
-				"url": "https://i.ibb.co/mvjs50n/d-l.png"
-			}
-		],
-		"show": true
+		"Id": "1",
+		"name": "HAFTANIN ÖDÜLÜ",
+		"description": "Akıllı Saat",
+		"url": "https://i.ibb.co/mvjs50n/d-l.png"
+	},
+	{
+		"Id": "2",
+		"name": "KAZANANLAR",
+		"description": "Haftalık Highest Score Sıralamasına Göre",
+		"url": "https://i.ibb.co/2PxG5B6/kazananlar.png"
+	},
+	{
+		"Id": "3",
+		"name": "DUYURU",
+		"description": "Haftalık Highest Score Sıralamasına Göre",
+		"url": "https://i.ibb.co/2PxG5B6/kazananlar.png"
+	},
+	{
+		"Id": "4",
+		"name": "ÖNEMLİ",
+		"description": "Haftanın ödülünü kazanan arkadaş bilgilerini teyit ettirmek için 1 hafta içerinde bilgilerini teyit ettirmek zorundadır. Aksi halde mail atmak zorundadır,aksi halde ödül haftaya sıralamaya giren ilk 2 ye verilecektir.",
+		"url": "https://i.ibb.co/mvjs50n/d-l.png"
 	}
 ]
