@@ -3,7 +3,8 @@
 		"Id": "1",
 		"name": "HAFTANIN ÖDÜLÜ",
 		"description": "Akıllı Saat",
-		"url": "https://i.ibb.co/mvjs50n/d-l.png"
+		"url": "https://i.ibb.co/mvjs50n/d-l.png",
+		"extraLife": true
 	},
 	{
 		"Id": "2",
